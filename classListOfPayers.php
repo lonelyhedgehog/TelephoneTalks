@@ -44,7 +44,6 @@ class ListPayers{
 				$mas[]=$payer;
 			}
 		}
-		}
 		return ($mas); echo "<br>"; 
 	}
 	public function searchByDate($data){ //поиск по дате звонка
